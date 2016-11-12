@@ -1,0 +1,7 @@
+name: BuildOFF
+version: 1.0-CRAFTBUKKIT-1.8
+main: com.mcmixcraft.main.Main
+author: lucaszainko
+
+commands:
+  construir:
